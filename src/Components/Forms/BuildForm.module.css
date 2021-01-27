@@ -1,0 +1,24 @@
+.buildform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div {
+    margin: 10px;
+
+
+}
+label {
+    width: 100px;
+}
+input {
+    width: 40px;
+}
+.input, .textarea, .checkbox {
+    width: 200px;
+    text-align: start;
+    display: flex;
+}
+button {
+    font-size: 20px;
+}

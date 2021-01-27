@@ -1,0 +1,11 @@
+.createform {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: start;
+
+}
+.form {
+    display: flex;
+    justify-content: center;
+}
